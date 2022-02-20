@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ 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 }}
-          GIST_ID: ${{ 032d272b0350b0fcdb0eb5e11a60a65d }}
+          GIST_ID: ${{ https://gist.github.com/hanuk96/032d272b0350b0fcdb0eb5e11a60a65d }}
           TIMEZONE: Asia/Seoul
